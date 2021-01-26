@@ -83,7 +83,7 @@ class CardFrontLayout {
                               color: textColor,
                               fontWeight: FontWeight.w500,
                               fontFamily: "MavenPro",
-                              fontSize: 22),
+                              fontSize: 20),
                         ),
                         SizedBox(
                           height: 15,
